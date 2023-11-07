@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite - This is a sample action to see how the github pages work
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
